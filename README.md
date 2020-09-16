@@ -5,3 +5,7 @@ Get 30 popular words from last 100 commits from Kotlin repo
 
 Задание сделал в Google Colab. Использовал библиотеку PyGithub. Этот же файл находится в репозитории.
 https://colab.research.google.com/drive/15_yHmWuPzSoG1V25OTpFk3yafH2jecG-?usp=sharing
+
+## Requirements
+ * Python 3
+ * PyGithub ( pip install PyGithub )
